@@ -1,11 +1,7 @@
 ---
-title: "jcoliver"
+title: "Jeff Oliver"
 ---
 
-This is a Quarto website.
+I am the Data Science Specialist in the University of Arizona Libraries.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This page is a work in progress. Yay. Progress.
