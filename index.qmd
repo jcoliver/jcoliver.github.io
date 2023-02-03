@@ -1,5 +1,9 @@
 ---
 title: "Jeff Oliver"
+image: headshot.jpg
+about: 
+  template: jolla
+  image-shape: rounded
 ---
 
 I am the Data Science Specialist in the University of Arizona Libraries.

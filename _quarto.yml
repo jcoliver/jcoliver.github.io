@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "jcoliver"
+  title: "Jeff Oliver"
   navbar:
     left:
       - href: index.qmd
@@ -12,7 +12,7 @@ website:
 
 format:
   html:
-    theme: cosmo
+    theme: journal
     css: styles.css
     toc: true
 
