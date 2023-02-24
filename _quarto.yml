@@ -10,6 +10,11 @@ website:
         text: Home
       - href: research.qmd
         text: Research
+    right: 
+      - icon: github
+        href: https://github.com/jcoliver
+      - icon: twitter
+        href: https://twitter.com/jcoliverAZ
 
 format:
   html:
