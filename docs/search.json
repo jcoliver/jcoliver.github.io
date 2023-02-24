@@ -1,16 +1,16 @@
 [
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research covers three general areas:\n\nEvolutionary patterns and processes in insects (and other sundry animals);\nUsing community-contributed data to understand large-scale ecological patterns;\nTraining and support in data science."
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Jeff Oliver",
     "section": "",
-    "text": "I am the Data Science Specialist in the University of Arizona Libraries.\nThis page is a work in progress. Yay. Progress."
-  },
-  {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
-    "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I am the Data Science Specialist in the University of Arizona Libraries. In addition to teaching and consulting for programming in R, I lead the Data Cooperative, which supports data-intensive research at the University of Arizona.\nThis page is a work in progress. Yay. Progress."
   }
 ]

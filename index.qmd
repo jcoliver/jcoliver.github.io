@@ -4,8 +4,21 @@ image: headshot.jpg
 about: 
   template: jolla
   image-shape: rounded
+  links:
+    - icon: envelope
+      text: e-mail
+      href: mailto:jcoliver@arizona.edu
+    - icon: github
+      text: GitHub
+      href: https://github.com/jcoliver 
+    - icon: twitter
+      text: twitter
+      href: https://twitter.com/jcoliverAZ
 ---
 
-I am the Data Science Specialist in the University of Arizona Libraries.
+I am the Data Science Specialist in the University of Arizona Libraries. In 
+addition to teaching and consulting for programming in R, I lead the 
+[Data Cooperative](https://data.library.arizona.edu), which supports 
+data-intensive research at the University of Arizona.
 
 This page is a work in progress. Yay. Progress.
