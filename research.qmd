@@ -13,7 +13,6 @@ about:
 
 My research covers three general areas:
 
-1. Evolutionary patterns and processes in insects (and other sundry animals);
-2. Using community-contributed data to understand large-scale ecological 
-patterns;
-3. Training and support in data science.
+1.  Evolutionary patterns and processes in insects (and other sundry animals);
+2.  Using community-contributed data to understand large-scale ecological patterns;
+3.  Training and support in data science.
